@@ -1,16 +1,7 @@
-# simple_pacman_game
+# Simple Pacman Game
 
-A new Flutter project.
+Simple Pacman Game
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Pacman_Game/assets/146417248/4643a06c-e6d3-4375-b755-3c30d014a290)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/BilalSevinc16/Simple_Pacman_Game/assets/146417248/f50b2bec-87d4-4d98-9534-dd75a76e5b4e)
